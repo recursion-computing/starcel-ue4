@@ -1,0 +1,4 @@
+# Starcel-UE4
+A 3D desktop environment, visualization tool, education tool, and more. 
+
+This is the Unreal Engine 4.22.3 development branch. It offers full python support powered by https://github.com/20tab/UnrealEnginePython, but does not have any implemented features. The full documentation can be found [here](https://github.com/20tab/UnrealEnginePython/tree/master/docs). You should be able to build all Starcel features from this point including the player in Python, but being UE4, you will not have access to Lumen, Nanite, and Large World Coordinates. I have tested available versions of the 3D text plugin, it needs refactoring to work in this version. 
